@@ -1,0 +1,10 @@
+{
+    "W_nodes": "data/TRI/W_.csv",
+    "V_nodes": "data/TRI/V_TRI.csv",
+    "V_confirmed": "data/TRI/V_confirmed.csv",
+    "V_cured": "data/TRI/V_cured.csv",
+    "V_suspected": "data/TRI/V_suspected.csv",
+    "V_dead": "data/TRI/V_dead.csv",
+    "Weather": "data/Weather.npy",
+    "NATree": "data/TRI/NATree.npy"
+}
